@@ -34,6 +34,6 @@ This Node.js project scrapes **GitHub Topics**, extracts the **top 8 repositorie
    - Construct the **issues page link**
    - Visit the page
    - Extract open issues (using `extractIssues.js`)
-5. Save the data in a folder structure like:
+5. Save the data in a folder structure
 
 
